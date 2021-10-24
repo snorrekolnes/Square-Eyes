@@ -1,0 +1,199 @@
+body {
+  height: 100vh;
+  background-color: rgba(1, 1, 1, 1);
+}
+section {
+  background-color: none;
+}
+
+main {
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(30, 37, 38, 1) 53%
+  );
+  height: 1400px;
+}
+
+footer {
+  background-color: rgba(30, 37, 38, 1);
+  color: rgba(242, 153, 153, 1);
+  text-align: center;
+}
+.container {
+  margin: 0 auto;
+  max-width: 1080px;
+}
+button {
+  background-color: transparent; /* Green */
+  border: none;
+  color: rgba(242, 153, 153, 1);
+  padding: 15px 32px;
+
+  text-decoration: none;
+  display: block;
+  font-size: 16px;
+  justify-content: space-between;
+}
+.navigation :hover {
+  border-bottom: solid rgba(242, 153, 153, 1);
+}
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 0%;
+  padding-top: 0px;
+}
+.hero-banner {
+  background-image: url(../img/davidcohen-EhSxbBCjr9A-unsplash.png);
+  background-color: transparent;
+  background-position: -50px;
+  width: 1080px;
+  height: 420px;
+  display: flex;
+}
+.hero-text1 {
+  font-family: "Rosarivo", serif;
+  text-align: center;
+  color: white;
+  justify-content: space-between;
+}
+#watch a {
+  text-decoration: none;
+  color: rgba(140, 73, 73, 1);
+  margin-left: 675px;
+  border: 1px solid rgba(140, 73, 73, 1);
+  padding: 5px;
+}
+.hero-text2 {
+  display: flex;
+  font-family: "Rosarivo", serif;
+  color: white;
+  size: 8px;
+  margin-left: 400px;
+  margin-top: -100px;
+}
+.logo2 {
+  height: 24px;
+  padding-right: 10px;
+}
+.container2 {
+  margin: 0 auto;
+  max-width: 1080px;
+  display: grid;
+  grid-template-rows: auto auto auto auto;
+  height: 300px;
+  margin-top: 50px;
+}
+
+.images {
+  width: 210px;
+  height: 210px;
+  margin-top: 300px;
+  padding-inline: 23px;
+  position: relative;
+}
+.row1 {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.row2 {
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.container3 {
+  margin: 0 auto;
+  max-width: 1080px;
+  display: grid;
+  grid-template-rows: auto auto auto auto;
+  height: 300px;
+}
+p {
+  color: white;
+  position: absolute;
+  top: 850px;
+
+  left: 300px;
+}
+.row3 {
+  margin-top: 40px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.container4 {
+  margin: 0 auto;
+  max-width: 1080px;
+  display: grid;
+  grid-template-rows: auto auto auto auto;
+  height: 300px;
+}
+p1 {
+  color: white;
+  position: absolute;
+  top: 865px;
+
+  left: 550px;
+}
+p2 {
+  color: white;
+  position: absolute;
+  top: 865px;
+
+  left: 800px;
+}
+p3 {
+  color: white;
+  position: absolute;
+  top: 865px;
+
+  left: 1080px;
+}
+p4 {
+  color: white;
+  position: absolute;
+  top: 1200px;
+  left: 315px;
+}
+p5 {
+  color: white;
+  position: absolute;
+  top: 1200px;
+  left: 570px;
+}
+p6 {
+  color: white;
+  position: absolute;
+  top: 1200px;
+  left: 810px;
+}
+p7 {
+  color: white;
+  position: absolute;
+  top: 1200px;
+  left: 1090px;
+}
+p8 {
+  color: white;
+  position: absolute;
+  top: 1520px;
+  left: 300px;
+}
+p9 {
+  color: white;
+  position: absolute;
+  top: 1520px;
+  left: 565px;
+}
+p10 {
+  color: white;
+  position: absolute;
+  top: 1520px;
+  left: 829px;
+}
+p11 {
+  color: white;
+  position: absolute;
+  top: 1520px;
+  left: 1070px;
+}
